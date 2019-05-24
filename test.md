@@ -7,13 +7,13 @@ docs:revise wording of <name of your docs>
   
 较大范围地修改某文档内容
 
-refacotor:refactor the <name of your docs>
+refacotor:refactor the <name of your docs> 调整了某个文档的结构
   
-调整了某个文档的结构
 
-add <summary of your content>
+
+add <summary of your content> 增加某些内容，注意简述是什么内容
   
-增加某些内容，注意简述是什么内容
+
 
 create <name of your docs> 创建某个文档
   
