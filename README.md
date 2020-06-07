@@ -1,4 +1,4 @@
 # Hello-World
 First Try!
 
-It is time for change.
+Welcome to Earth-0.
